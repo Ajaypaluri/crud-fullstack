@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-frontend/static/css/main.a5b13b09.css",
-    "main.js": "/react-frontend/static/js/main.ee7474d3.js",
-    "index.html": "/react-frontend/index.html",
-    "main.a5b13b09.css.map": "/react-frontend/static/css/main.a5b13b09.css.map",
-    "main.ee7474d3.js.map": "/react-frontend/static/js/main.ee7474d3.js.map"
+    "main.css": "/crud-fullstack-app/react-frontend/static/css/main.a5b13b09.css",
+    "main.js": "/crud-fullstack-app/react-frontend/static/js/main.a1ed87b8.js",
+    "index.html": "/crud-fullstack-app/react-frontend/index.html",
+    "main.a5b13b09.css.map": "/crud-fullstack-app/react-frontend/static/css/main.a5b13b09.css.map",
+    "main.a1ed87b8.js.map": "/crud-fullstack-app/react-frontend/static/js/main.a1ed87b8.js.map"
   },
   "entrypoints": [
     "static/css/main.a5b13b09.css",
-    "static/js/main.ee7474d3.js"
+    "static/js/main.a1ed87b8.js"
   ]
 }
